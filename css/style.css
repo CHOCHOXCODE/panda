@@ -1,0 +1,27 @@
+.container{
+    padding-bottom: 90px;
+}
+.navbar{
+    border-radius: 10px;
+}
+
+.slide-bg{
+    background-color: #FEEAE9;
+    border-radius: 10px;
+}
+
+.carousel-item{
+    padding: 20px 60px;
+}
+
+.price{
+    color: #FF136f;
+}
+.btn-buy-now{
+    background-image: linear-gradient(to bottom, #ff589b, #ff136f 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 8px 25px;
+    cursor: pointer;
+}
